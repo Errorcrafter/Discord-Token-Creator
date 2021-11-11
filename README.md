@@ -1,3 +1,5 @@
+# ORIGINAL REPO TAKEN DOWN, ALL CREDIT GOES TO NOTDROPOUT
+
 <div id="top"></div>
 <p align="center">
   <img src="https://img.shields.io/github/contributors/notdropout/Discord-Token-Creator.svg?style=for-the-badge"/>
